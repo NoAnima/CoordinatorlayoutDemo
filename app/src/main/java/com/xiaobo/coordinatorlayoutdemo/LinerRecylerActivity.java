@@ -31,11 +31,10 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Created by xiaobo on 2017/4/12.
+ * 线性布局
  */
 
 public class LinerRecylerActivity extends AppCompatActivity {
-
     private RecyclerView recyclerView;
     private CoordinatorLayout coordinatorLayout;
     private SwipeRefreshLayout swipeRefreshLayout;
