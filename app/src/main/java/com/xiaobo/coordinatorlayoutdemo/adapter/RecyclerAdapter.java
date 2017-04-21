@@ -9,7 +9,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.squareup.picasso.Picasso;
-import com.xiaobo.coordinatorlayoutdemo.Meizis;
+import com.xiaobo.coordinatorlayoutdemo.bean.Meizis;
 import com.xiaobo.coordinatorlayoutdemo.R;
 
 import java.util.List;
