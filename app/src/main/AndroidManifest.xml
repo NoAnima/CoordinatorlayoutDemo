@@ -21,6 +21,8 @@
         </activity>
         <activity android:name=".activity.LinerRecylerActivity"
             />
+        <activity android:name=".activity.SwipeCardActivity"
+            />
 
     </application>
 
